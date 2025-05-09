@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085573542089",
+    "project_id": "passionpal-37198",
+    "storage_bucket": "passionpal-37198.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085573542089:android:e346e275edbe345f481d18",
+        "android_client_info": {
+          "package_name": "com.passionpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0TdwkW-ZZtrpofyWS3kjdUxagyEXBGpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
